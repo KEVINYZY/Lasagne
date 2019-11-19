@@ -12,7 +12,7 @@
 
 .. image:: https://zenodo.org/badge/16974/Lasagne/Lasagne.svg
    :target: https://zenodo.org/badge/latestdoi/16974/Lasagne/Lasagne
-
+zd
 Lasagne
 =======
 
